@@ -4,7 +4,7 @@
 
 I collected this dataset from the [Kaggle website](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009). The dataset is related to red variants of the Portuguese "Vinho Verde" wine and consists of 1,599 rows, 11 input features, and 1 target column.
 
-### Input Variables (Features):
+#### Input Variables (Features):
 
 1. fixed acidity  
 2. volatile acidity  
@@ -18,7 +18,7 @@ I collected this dataset from the [Kaggle website](https://www.kaggle.com/datase
 10. sulphates  
 11. alcohol  
 
-### Output Variable (Target):
+#### Output Variable (Target):
 
 12. quality (A score ranging from 0 to 10, where 0 indicates the worst quality and 10 indicates the best quality.)
 
