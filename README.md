@@ -1,3 +1,5 @@
+# Wine Quality Predictor
+
 ## Data Collection
 
 I collected this dataset from the [Kaggle website](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009). The dataset is related to red variants of the Portuguese "Vinho Verde" wine and consists of 1,599 rows, 11 input features, and 1 target column.
