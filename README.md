@@ -1,7 +1,7 @@
 # Wine Quality Predictor
 
 
-##Overview
+## Overview
 This project aims to predict the quality of red wine using machine learning models based on various chemical properties. The dataset, sourced from Kaggle, contains 1,599 samples with 11 input features and one target variable representing the wine quality. The goal is to classify wines as either good or bad based on their quality score.
 
 Through a process of data preprocessing, feature selection, dataset balancing, and model selection, I used several machine learning algorithms to predict wine quality. After tuning hyperparameters and evaluating performance, the XGBoost Classifier was chosen as the final model, achieving an accuracy of 88% and an ROC-AUC score of 81%. The project demonstrates how advanced machine learning techniques can be applied to a real-world classification task.
